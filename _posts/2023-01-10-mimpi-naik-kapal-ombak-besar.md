@@ -1,0 +1,7 @@
+---
+layout: post
+permalink: /mimpi-naik-kapal-ombak-besar/
+categories:
+    - Uncategorized
+---
+
